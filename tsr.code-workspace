@@ -5,6 +5,9 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Gray Matter Dark"
+		"workbench.colorTheme": "Gray Matter Dark",
+		"markdown-links.autoStart": true,
+		"vscodeMarkdownNotes.allowPipedWikiLinks": true,
+		"vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
 	}
 }
